@@ -1,6 +1,3 @@
-
-MIT License
-
 Copyright (c) 2024 cnb.cool
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -20,11 +17,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Additional Terms:
-
-If you have downloaded a copy of the CNB binary, please note that the CNB binary is licensed under the MIT License.
-If you have downloaded a copy of the CNB source code, please note that CNB source code is licensed under the MIT License,
-except for the third-party components listed below which are subject to different license terms.
-Your integration of CNB into your own projects may require compliance with the MIT License,
-as well as the other licenses applicable to the third-party components included within CNB.
